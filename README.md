@@ -17,9 +17,9 @@
 強化する言語
 
 ```
-1.Java
-2.C
-3.C#
+1.Java.     | start 2015
+2.C.        | start 2017-03-01
+3.C#.       | start 2016-08-01
 ```
 
 etc
@@ -27,4 +27,5 @@ etc
 ```
 1.Ruby On Rails
 2.Django
+3.ASP.net.      | start 2016-08-01
 ```
