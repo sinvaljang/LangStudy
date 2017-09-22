@@ -25,7 +25,7 @@ while endFlg == 0:
     #取得した数が重複するかチェック
     for tempN in numList:
         if sN != tempN:
-            numList.append(random.randint(1,45))
+            numList.append(sN)
             cnt = cnt + 1
         break
 
