@@ -13,6 +13,12 @@ import (
 	"math"
 )
 
+/*
+これにも浸かる
+import "fmt"
+import "math"
+*/
+
 func main() {
 	fmt.Println("Happy", math.Pi, "Day")
 }
